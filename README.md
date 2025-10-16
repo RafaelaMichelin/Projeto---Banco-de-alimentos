@@ -6,14 +6,22 @@
 
 <h2> :space_invader: Tecnologias a serem utilizadas:</h2>
 
-`- HTML5`
-
-`- CSS3`
+`- HTML5, CSS3, Bootsrap`
 
 `- JavaScript`
 
 `- Java24`
 
-`- GIT`
+`- MySql`
 
-<h3>Colaboradores: Ariele Cohen Venancio de Paula, Rafaela Layra Michelin, Renan Bernardes, Thiago Maroca </h3>
+`- GitHub`
+
+`- Notion`
+
+`- Junit, Postman`
+
+`- Vercel + Render`
+
+
+
+<p>Colaboradores: Ariele Cohen Venancio de Paula, Rafaela Layra Michelin, Renan Bernardes e Thiago Maroca </p>
